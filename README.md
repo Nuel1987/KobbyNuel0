@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nuel1987
+- 👋 Hi, I’m @KobbyNuel
 I'm a Full Stack Developer with a focus on:
 - Telemedicine Platforms
 - Youth Entrepreneurship Solutions
@@ -8,6 +8,6 @@ I'm a Full Stack Developer with a focus on:
 - Databases: MySQL
 - Tools: Git, 
 <!---
-Nuel1987/Nuel1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KobbyNuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
